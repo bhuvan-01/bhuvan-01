@@ -103,3 +103,61 @@
 - Integrated **Stripe** for secure payments  
 - Improved performance & UX → **20% more user engagement**
 
+# 🏆 Achievements & Leadership
+
+- 👨‍🏫 Delivered **10+ coding workshops** for underprivileged students  
+- 🏆 Organized **5+ hackathons & tech events** as CS Society Secretary  
+- 🏐 Represented University of Leicester Volleyball Club  
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=bhuvan-01&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhuvan-01&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=bhuvan-01&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🏅 Trophy Wall
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=bhuvan-01&theme=onestar&no-frame=true&row=1&margin-w=15"/>
+</p>
+
+---
+
+# 📈 Coding Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhuvan-01&theme=react-dark&hide_border=true"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake (Optional – Needs GitHub Action)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bhuvan-01/bhuvan-01/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+# 📬 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/bhuvan-01"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+  &nbsp;&nbsp;
+  <a href="mailto:bhuvan.rajpoot2000@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
+</p>
+
+<p align="center">⭐ If you like my work, consider starring my repositories!</p>
