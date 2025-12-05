@@ -126,6 +126,12 @@
 </p>
 
 ---
+### 📅 GitHub Contribution Heatmap
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhuvan-01&theme=github-dark&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&hide_border=true" />
+</p>
+---
 
 # 📈 Coding Activity Graph
 
