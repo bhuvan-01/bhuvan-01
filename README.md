@@ -113,9 +113,7 @@
 
 # 🔥 GitHub Streak
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=bhuvan-01&theme=tokyonight&hide_border=true"/>
-</p>
+<p align="center"> <img src="https://streak-stats.demolab.com?user=bhuvan-01&theme=tokyonight&hide_border=true"/> </p>
 
 ---
 
