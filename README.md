@@ -144,14 +144,6 @@
 
 ---
 
-# 🐍 Contribution Snake (Optional – Needs GitHub Action)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/bhuvan-01/bhuvan-01/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 # 📬 Connect With Me
 
 <p align="center">
