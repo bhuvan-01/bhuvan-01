@@ -126,12 +126,11 @@
 </p>
 
 ---
-### 🧪 Languages Used Across Repositories
-
+### ⏳ Commit Timeline
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bhuvan-01&theme=tokyonight" />
-   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bhuvan-01&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhuvan-01&theme=tokyonight" />
 </p>
+
 
 
 ---
