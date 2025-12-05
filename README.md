@@ -1,11 +1,5 @@
-<!-- 🔥 Animated Header Wave -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&text=Hi,+I'm+Bhuvan+Rajpoot!&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Software+Developer+|+Full+Stack+Engineer+|+Cloud+&descAlignY=60&descAlign=50" />
-</p>
-
-<!-- ✨ Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1200&color=00E5FF&center=true&vCenter=true&width=900&lines=Java+%7C+JavaScript+%7C+React+%7C+Node.js+Developer;Spring+Boot+%7C+Cloud+%7C+Microservices+Engineer;C%2B%2B+Learner+%7C+System+Design+%7C+API+Engineering;Passionate+about+building+scalable+systems" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Hi,+I'm+Bhuvan+Rajpoot!&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
 </p>
 
 <h3 align="center">Software Developer | Java | JavaScript | React | Node.js | Backend & Cloud | C++ Learner</h3>
@@ -16,13 +10,11 @@
 
 ---
 
-<!-- ⭐ Animated Badges -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bhuvan-01&color=blue&style=flat">
   <img src="https://img.shields.io/github/followers/bhuvan-01?label=Followers&style=social">
   <img src="https://img.shields.io/github/stars/bhuvan-01?label=Stars&style=social">
 </p>
-
 
 ---
 
@@ -36,11 +28,6 @@
 - 🚀 Currently strengthening **C++ (for MAKO/IMC-style interviews)**  
 - 📫 Email: **bhuvan.rajpoot2000@gmail.com**  
 - 📍 Based in UK (on Graduate Visa till Feb 2027)
-
-<!-- 🌟 Floating Icons Animation -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/assets/floating.gif" width="250">
-</p>
 
 ---
 
@@ -96,8 +83,6 @@
 - Implemented **Spring Security, JWT, OAuth**, achieving **99% security uptime**  
 - Added real-time vote casting & results—boosted app performance by **20%**  
 
----
-
 ## 🔹 **Software Developer — Parangat Technologies (Jun 2022 – Sep 2022)**
 - Developed responsive UIs using **React.js, Next.js, HTML, CSS**  
 - Improved front-end performance by **30%** through code optimisation  
@@ -118,8 +103,6 @@
 - Integrated **Stripe** for secure payments  
 - Improved performance & UX → **20% more user engagement**
 
----
-
 # 🏆 Achievements & Leadership
 
 - 👨‍🏫 Delivered **10+ coding workshops** for underprivileged students  
@@ -128,9 +111,11 @@
 
 ---
 
-# 🔥 GitHub Streak 
+# 🔥 GitHub Streak
 
-<p align="center"> <img src="https://streak-stats.demolab.com?user=bhuvan-01&theme=tokyonight&hide_border=true"/> </p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=bhuvan-01&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
@@ -145,15 +130,7 @@
 # 📈 Coding Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhuvan-01&theme=react-dark&hide_border=true&area=true&area_color=00E5FF"/>
-</p>
-
----
-
-# 💠 NEW Animated Section Divider
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhuvan-01&theme=react-dark&hide_border=true"/>
 </p>
 
 ---
@@ -167,3 +144,6 @@
 </p>
 
 <p align="center">⭐ If you like my work, consider starring my repositories!</p>
+
+
+
