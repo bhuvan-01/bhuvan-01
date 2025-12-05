@@ -155,7 +155,7 @@
 # 📬 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/bhuvan-01"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+  <a href="https://linkedin.com/in/bhuvan-rajpoot"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
   &nbsp;&nbsp;
   <a href="mailto:bhuvan.rajpoot2000@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
 </p>
