@@ -23,10 +23,6 @@
   <img src="https://img.shields.io/github/stars/bhuvan-01?label=Stars&style=social">
 </p>
 
-<!-- ⚡ Neon Divider -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/bhuvan-01/bhuvan-01/main/animated-divider.gif" width="100%">
-</p>
 
 ---
 
