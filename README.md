@@ -75,7 +75,7 @@
 
 ---
 
-# 🧩 Work Experience (From Your CV)
+# 🧩 Work Experience 
 
 ## 🔹 **Full Stack Developer — Learn and Build (May 2023 – Jul 2023)**
 - Built a scalable backend for a voting system using **Spring Boot, Microservices & MongoDB**  
@@ -91,7 +91,7 @@
 
 ---
 
-# 🚀 Featured Projects (From Your CV)
+# 🚀 Featured Projects 
 
 ### 🧳 **Job Advertising Platform** (Node.js + Express + Flask + GraphQL + ElasticSearch)
 - Integrated **REST + GraphQL APIs**, SSL/TLS encryption  
