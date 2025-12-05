@@ -31,7 +31,7 @@
 
 ---
 
-# ⚙️ Tech Stack (Matched to Your CV)
+# ⚙️ Tech Stack
 
 ### **Languages**
 ![Java](https://skillicons.dev/icons?i=java)
