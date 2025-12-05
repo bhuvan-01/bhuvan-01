@@ -126,14 +126,6 @@
 </p>
 
 ---
-### ⏳ Commit Timeline
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhuvan-01&theme=tokyonight" />
-</p>
-
-
-
----
 
 # 📈 Coding Activity Graph
 
