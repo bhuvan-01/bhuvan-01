@@ -132,11 +132,9 @@
 
 ---
 
-# 🔥 GitHub Streak (Animated Glow)
+# 🔥 GitHub Streak 
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=bhuvan-01&theme=tokyonight&hide_border=true&ring=00E5FF&fire=FF7B00&currStreakLabel=00E5FF"/>
-</p>
+<p align="center"> <img src="https://streak-stats.demolab.com?user=bhuvan-01&theme=tokyonight&hide_border=true"/> </p>
 
 ---
 
@@ -148,7 +146,7 @@
 
 ---
 
-# 📈 Coding Activity Graph (Animated)
+# 📈 Coding Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhuvan-01&theme=react-dark&hide_border=true&area=true&area_color=00E5FF"/>
