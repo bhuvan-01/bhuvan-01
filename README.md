@@ -126,10 +126,16 @@
 </p>
 
 ---
-### 📊 GitHub Metrics Dashboard
+### 🧪 Languages Used Across Repositories
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bhuvan-01/bhuvan-01/main/github-metrics.svg" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bhuvan-01&theme=tokyonight" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bhuvan-01&theme=tokyonight" />
+</p>
+
 ---
 
 # 📈 Coding Activity Graph
