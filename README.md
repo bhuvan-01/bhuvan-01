@@ -99,4 +99,7 @@
 - Advanced job search with **LinkedIn API + Elasticsearch indexing**
 
 ### 🛒 **Shopline E-Commerce**
-- Built using **Re**
+- Built using **React, Node.js, MySQL, OAuth, JWT**  
+- Integrated **Stripe** for secure payments  
+- Improved performance & UX → **20% more user engagement**
+
